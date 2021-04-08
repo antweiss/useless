@@ -1,0 +1,7 @@
+apiVersion: useless.otomato.io/v1alpha1
+kind: Machine
+metadata:
+  name: machine-sample
+spec:
+  # Add fields here
+  switchPosition: up

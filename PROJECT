@@ -1,0 +1,7 @@
+domain: otomato.io
+repo: otomato.io/useless
+resources:
+- group: useless
+  kind: Machine
+  version: v1alpha1
+version: "2"
